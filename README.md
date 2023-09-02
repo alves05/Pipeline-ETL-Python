@@ -9,7 +9,7 @@
 
 A resolução pode ser visualizada no notebook:
 
-[![ETL Python](https://img.shields.io/badge/Pipeline_de_ETL_com_Python-blue?style=for-the-badge)]()
+[![ETL Python](https://img.shields.io/badge/Pipeline_de_ETL_com_Python-blue?style=for-the-badge)](https://github.com/alves05/Pipeline-ETL-Python/blob/main/notebook/Pipeline_ETL_Python.ipynb)
 
 Para resolução do problema foi usado:
 
